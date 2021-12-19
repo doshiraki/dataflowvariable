@@ -1,0 +1,15 @@
+---
+columnCount: 2
+columns:
+- catalogName: ""
+  tableName: "srctable"
+  name: "userid"
+  typeName: "varchar"
+  type: 12
+  nullable: false
+- catalogName: ""
+  tableName: "srctable"
+  name: "username"
+  typeName: "varchar"
+  type: 12
+  nullable: true
